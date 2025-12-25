@@ -1,0 +1,64 @@
+# ZooKeeper — Generative Engine Optimization Map
+
+> מערכת לניהול חיות מחמד וזוחלים - מעקב אחר משימות יומיות, האכלות, טיפולים ומלאי
+
+---
+
+## Pages
+
+### Home
+https://zookeeper-42cb6717.zappy5.app
+Transform your pet care with ZooKeeper - the smart solution for tracking feeding schedules, health records, and daily care tasks for all your pets.
+
+### Services
+https://zookeeper-42cb6717.zappy5.app/services
+Professional zookeeper services for pets owner - comprehensive pet management, task tracking, health records, and inventory control solutions.
+
+### About
+https://zookeeper-42cb6717.zappy5.app/about
+Learn about ZooKeeper - the innovative pet care technology company helping pets owner manage their animals with professional zookeeper solutions.
+
+### Contact
+https://zookeeper-42cb6717.zappy5.app/contact
+Contact ZooKeeper for expert zookeeper solutions. Get in touch with our team to learn how we help pets owner manage their animals effectively.
+
+## Legal & Policy
+
+### Privacy Policy
+https://zookeeper-42cb6717.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zookeeper-42cb6717.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zookeeper-42cb6717.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ZooKeeper
+מערכת לניהול חיות מחמד וזוחלים - מעקב אחר משימות יומיות, האכלות, טיפולים ומלאי
+
+## Services/Products
+- ניהול חיות
+- מעקב משימות
+- ניהול מלאי וציוד
+- דוחות
+- תזכורות טיפול
+
+## Target Audience
+pet owners
+
+## Industry
+pet care technology
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://zookeeper-42cb6717.zappy5.app/sitemap.xml
+- **Robots.txt**: https://zookeeper-42cb6717.zappy5.app/robots.txt

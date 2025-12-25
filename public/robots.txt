@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zookeeper-42cb6717.zappy5.app/sitemap.xml
